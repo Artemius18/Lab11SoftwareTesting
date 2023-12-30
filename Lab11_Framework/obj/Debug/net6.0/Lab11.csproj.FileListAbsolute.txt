@@ -254,8 +254,8 @@ D:\Lab11_Framework\Lab11_Framework_Spotify\Lab11_Framework\obj\Debug\net6.0\refi
 D:\Lab11_Framework\Lab11_Framework_Spotify\Lab11_Framework\obj\Debug\net6.0\Lab11.pdb
 D:\Lab11_Framework\Lab11_Framework_Spotify\Lab11_Framework\obj\Debug\net6.0\Lab11.genruntimeconfig.cache
 D:\Lab11_Framework\Lab11_Framework_Spotify\Lab11_Framework\obj\Debug\net6.0\ref\Lab11.dll
-E:\BSTU\3_course\1term\Lab11_Framework_Spotify\Lab11_Framework\bin\Debug\net6.0\testhost.exe
 E:\BSTU\3_course\1term\Lab11_Framework_Spotify\Lab11_Framework\bin\Debug\net6.0\testhost.dll
+E:\BSTU\3_course\1term\Lab11_Framework_Spotify\Lab11_Framework\bin\Debug\net6.0\testhost.exe
 E:\BSTU\3_course\1term\Lab11_Framework_Spotify\Lab11_Framework\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
 E:\BSTU\3_course\1term\Lab11_Framework_Spotify\Lab11_Framework\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
 E:\BSTU\3_course\1term\Lab11_Framework_Spotify\Lab11_Framework\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe

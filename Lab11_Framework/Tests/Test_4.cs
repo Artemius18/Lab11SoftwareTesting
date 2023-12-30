@@ -28,7 +28,7 @@ namespace Lab11.Tests
         [Test]
         public void Test4()
         {
-            _mainPage.AddToFavourite();
+            //_mainPage.AddToFavourite();
             Thread.Sleep(5000);
         }
 

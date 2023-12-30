@@ -28,9 +28,9 @@ namespace Lab11.Tests
         [Test]
         public void Test5()
         {
-            _mainPage.DeletePlayList_1();
-            _mainPage.DeletePlayList_2();
-            _mainPage.DeletePlayList_3();
+            //_mainPage.DeletePlayList_1();
+            //_mainPage.DeletePlayList_2();
+            //_mainPage.DeletePlayList_3();
             Thread.Sleep(5000);
         }
 

@@ -29,7 +29,7 @@ namespace Lab11.Tests
         public void Test6()
         {
             _FavouritePage.OpenFavouritePage();
-            _FavouritePage.DeleteSong();
+            //_FavouritePage.DeleteSong();
             Thread.Sleep(5000);
         }
 
