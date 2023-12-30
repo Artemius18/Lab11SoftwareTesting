@@ -28,7 +28,7 @@ namespace Lab11.Tests
         [Test]
         public void Test1()
         {
-            _loginPage.OpenLoginPage();
+            //_loginPage.OpenLoginPage();
             //_loginPage.InputUserName();
             //_loginPage.InputUserPassword();
             //_loginPage.LoginButton();

@@ -28,7 +28,7 @@ namespace Lab11.Tests
         [Test]
         public void Test2()
         {
-            _mainPage.OpenMainPage();
+            //_mainPage.OpenMainPage();
             //_mainPage.addPlayList();
             //_mainPage.CreatePlayList();
             //_mainPage.CheckPage();

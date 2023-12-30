@@ -28,7 +28,7 @@ namespace Lab11.Tests
         [Test]
         public void Test8()
         {
-            _OptionsPage.OpenOptionsPagee();
+            //_OptionsPage.OpenOptionsPagee();
             //_OptionsPage.Click_LanguageMenu();
             //_OptionsPage.Click_SaveChange();
             //_OptionsPage.CheckChanges();

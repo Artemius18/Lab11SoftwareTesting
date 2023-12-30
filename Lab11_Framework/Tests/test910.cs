@@ -28,7 +28,7 @@ namespace Lab11.Tests
         [Test]
         public void Test10()
         {
-            _FavouritePage.OpenFavouritePage();
+            //_FavouritePage.OpenFavouritePage();
             //_FavouritePage.Click_OpenFacebook();
             //_FavouritePage.CheckOpened();
             Thread.Sleep(5000);

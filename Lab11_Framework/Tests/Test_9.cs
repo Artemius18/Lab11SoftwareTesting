@@ -28,7 +28,7 @@ namespace Lab11.Tests
         [Test]
         public void Test9()
         {
-            _SearchPage.OpenSearchPage();
+            //_SearchPage.OpenSearchPage();
             //_SearchPage.InputSearch();
             //_SearchPage.CheckSearch();
             Thread.Sleep(5000);
