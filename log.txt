@@ -1461,3 +1461,18 @@
 30.12.2023 04:32:22 [INFO] [FavouritePage] Click_OpenFacebook.
 30.12.2023 04:32:28 [INFO] [FavouritePage] CheckOpened.
 30.12.2023 04:32:33 [INFO] [MainPage] CheckOpened - Error.
+30.12.2023 04:39:40 [INFO] WebDriver initialized.
+30.12.2023 04:39:40 [INFO] [LoginPage] Login page opened.
+30.12.2023 04:41:30 [INFO] WebDriver initialized.
+30.12.2023 04:41:30 [INFO] [LoginPage] Login page opened.
+30.12.2023 04:41:46 [INFO] [MainPage] OpenMainPage.
+30.12.2023 04:42:23 [INFO] [ProfilePage] OpenFavouritePage.
+30.12.2023 04:42:40 [INFO] [OptionsPage] OpenOptionsPagee.
+30.12.2023 04:42:56 [INFO] [SearchPage] OpenSearchPage.
+30.12.2023 04:43:12 [INFO] [FavouritePage] FavouritePage.
+30.12.2023 04:43:24 [INFO] [FavouritePage] Click_OpenFacebook.
+30.12.2023 04:43:29 [INFO] [FavouritePage] CheckOpened.
+30.12.2023 04:43:34 [INFO] [MainPage] CheckOpened - Error.
+30.12.2023 04:48:42 [INFO] WebDriver initialized.
+30.12.2023 04:48:42 [INFO] [LoginPage] Login page opened.
+30.12.2023 04:48:54 [INFO] [LoginPage] InputUserName.

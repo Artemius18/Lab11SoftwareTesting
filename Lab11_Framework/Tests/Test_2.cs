@@ -29,9 +29,9 @@ namespace Lab11.Tests
         public void Test2()
         {
             _mainPage.OpenMainPage();
-            //_mainPage.addPlayList();
-            //_mainPage.CreatePlayList();
-            //_mainPage.CheckPage();
+            _mainPage.addPlayList();
+            _mainPage.CreatePlayList();
+            _mainPage.CheckPage();
             Thread.Sleep(5000);
         }
 

@@ -29,9 +29,9 @@ namespace Lab11.Tests
         public void Test7()
         {
             _ProfilePage.OpenProfilePage();
-            //_ProfilePage.ClickOpenMenu();
-            //_ProfilePage.InputNewName();
-            //_ProfilePage.ClickSaveName();
+            _ProfilePage.ClickOpenMenu();
+            _ProfilePage.InputNewName();
+            _ProfilePage.ClickSaveName();
 
             Thread.Sleep(5000);
         }
