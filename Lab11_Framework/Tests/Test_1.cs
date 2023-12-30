@@ -28,10 +28,10 @@ namespace Lab11.Tests
         [Test]
         public void Test1()
         {
-            //_loginPage.OpenLoginPage();
-            //_loginPage.InputUserName();
-            //_loginPage.InputUserPassword();
-            //_loginPage.LoginButton();
+            _loginPage.OpenLoginPage();
+            _loginPage.InputUserName();
+            _loginPage.InputUserPassword();
+            _loginPage.LoginButton();
             Thread.Sleep(5000);
         }
 

@@ -1594,3 +1594,28 @@
 30.12.2023 05:11:08 [INFO] [MainPage] CheckOpened - Error.
 30.12.2023 05:24:17 [INFO] WebDriver initialized.
 30.12.2023 05:27:19 [INFO] WebDriver initialized.
+30.12.2023 05:32:23 [INFO] WebDriver initialized.
+30.12.2023 05:32:23 [INFO] [LoginPage] Login page opened.
+30.12.2023 05:32:35 [INFO] [LoginPage] InputUserName.
+30.12.2023 05:32:40 [INFO] [LoginPage] InputUserPassword.
+30.12.2023 05:32:45 [INFO] [LoginPage] LoginButton.
+30.12.2023 05:32:55 [INFO] [MainPage] OpenMainPage.
+30.12.2023 05:33:06 [INFO] [MainPage] InputUserName.
+30.12.2023 05:33:11 [INFO] [MainPage] createPlayListButton.
+30.12.2023 05:33:16 [INFO] [MainPage] CheckPage.
+30.12.2023 05:33:16 [INFO] [MainPage] FindSong.
+30.12.2023 05:33:21 [INFO] [MainPage] createPlayListButton.
+30.12.2023 05:33:31 [INFO] [MainPage] addToFavourite.
+30.12.2023 05:33:41 [INFO] [MainPage] DeletePlayList_1.
+30.12.2023 05:33:46 [INFO] [MainPage] DeletePlayList_2.
+30.12.2023 05:33:51 [INFO] [MainPage] DeletePlayList_3.
+30.12.2023 05:34:02 [INFO] [FavouritePage] FavouritePage.
+30.12.2023 05:34:13 [INFO] [FavouritePage] InputUserName.
+30.12.2023 05:34:23 [INFO] [ProfilePage] OpenFavouritePage.
+30.12.2023 05:34:34 [INFO] [ProfilePage] ClickOpenMenu.
+30.12.2023 05:34:39 [INFO] [ProfilePage] InputNewName.
+30.12.2023 05:34:44 [INFO] [ProfilePage] ClickSaveName.
+30.12.2023 05:34:54 [INFO] [OptionsPage] OpenOptionsPagee.
+30.12.2023 05:35:05 [INFO] [OptionsPage] Click_LanguageMenu.
+30.12.2023 05:35:10 [INFO] [OptionsPage] Click_SaveChange.
+30.12.2023 05:35:11 [INFO] [SearchPage] OpenSearchPage.

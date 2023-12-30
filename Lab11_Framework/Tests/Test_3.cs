@@ -28,8 +28,8 @@ namespace Lab11.Tests
         [Test]
         public void Test3()
         {
-            //_mainPage.FindSong();
-            //_mainPage.AddSong();
+            _mainPage.FindSong();
+            _mainPage.AddSong();
             Thread.Sleep(5000);
         }
 
