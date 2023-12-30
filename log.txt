@@ -1592,3 +1592,5 @@
 30.12.2023 05:10:58 [INFO] [FavouritePage] Click_OpenFacebook.
 30.12.2023 05:11:03 [INFO] [FavouritePage] CheckOpened.
 30.12.2023 05:11:08 [INFO] [MainPage] CheckOpened - Error.
+30.12.2023 05:24:17 [INFO] WebDriver initialized.
+30.12.2023 05:27:19 [INFO] WebDriver initialized.
